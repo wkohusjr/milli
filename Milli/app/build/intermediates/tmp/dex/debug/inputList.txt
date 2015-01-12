@@ -1,0 +1,6 @@
+/Users/ck/AndroidStudioProjects/Milli/app/build/intermediates/classes/debug
+/Users/ck/AndroidStudioProjects/Milli/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e54a3a63dca8e2f73deed65096015f9259b3cf46.jar
+/Users/ck/AndroidStudioProjects/Milli/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f6b7e76879c485832aadaa31ae7d5d0ed41ab049.jar
+/Users/ck/AndroidStudioProjects/Milli/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7841a101ad7f714733c72cb45acd3b92cb7628eb.jar
+/Users/ck/AndroidStudioProjects/Milli/app/build/intermediates/pre-dexed/debug/Parse-1.8.0-3d10ee40de5d8e36d1491f0bce3d3954e166cf92.jar
+/Users/ck/AndroidStudioProjects/Milli/app/build/intermediates/pre-dexed/debug/classes-5db2b0480004768f224cbbf5a280875041fcaeaf.jar
